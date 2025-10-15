@@ -1,10 +1,4 @@
-# EFA-datorn-EFA-4-VIP-Computer
-VIP daughter cards for the EFA-4 computer
-- Pixie video card
-- VIP Keypad card
-- Cassette interface card
-- Hex display card
-- 32K Ram Rom card with logic to initially load ROM at 0000H and when A15 is asserted will jump ROM at 8000H with Ram at 0000H  
+# VIP-S Computer
+The VIP-S is a reproduction of the J-VIP computer that was designed by Josh Bensadon and Walter Miraglia in 2015. It's original purpose was to provide a cheap way to experience real VIP hardware with some exclusions like the full expansion ports.
 
-  These cards can be substituted for the equivalent for the EFA-4 cards.
-
+Like the J-VIP, it runs the VIP or the JVIP rom and takes advantage of the VIP firmware to load and save programs on tape or interface to a computer via the bit bang connectors at 9600 baud.
