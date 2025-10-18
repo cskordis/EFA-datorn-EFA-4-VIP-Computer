@@ -4,5 +4,7 @@
 2. Add on the underside a 30 Ohm resistor from the 200 Ohm resistor to the emitter.
 This correction essentially replaces the direct link from R25 and the Emitter with the 30 Ohm resistor.
 
+![Image of video correction](https://github.com/user-attachments/assets/4c8d9179-3c06-46b6-8015-2dc48238c463)
 
-See image file
+
+
