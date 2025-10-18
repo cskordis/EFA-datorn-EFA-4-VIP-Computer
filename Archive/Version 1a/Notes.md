@@ -5,3 +5,4 @@
 This correction essentially replaces the direct link from R25 and the Emitter with the 30 Ohm resistor.
 
 
+See image file
