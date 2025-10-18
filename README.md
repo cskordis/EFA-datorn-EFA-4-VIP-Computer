@@ -3,7 +3,7 @@ The VIP-S (Simplified) is a reproduction of the J-VIP computer that was designed
 
 Like the J-VIP, it runs the VIP or the JVIP rom and takes advantage of the VIP firmware to load and save programs on tape or interface to a computer via the bit bang connectors at 9600 baud.
 
-## <ins>Version 1.0b</ins> is the latest version with video improvements and a BD139 driven Q output to control relays or other circuits. 
+<ins>Version 1.0b</ins> is the latest version with video improvements and a BD139 driven Q output to control relays or other circuits. All other previous versions can be found in the archive folder.
 
 
 ### Image of the VIP-S version 1.0
